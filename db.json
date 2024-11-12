@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post 2",
+      "comments": 5,
+      "likes": "17",
+      "author": "Jane Smith",
+      "createdAt": "2023-12-06T10:30:45.567Z"
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "comments": 8,
+      "likes": 20,
+      "author": "Bob Johnson",
+      "createdAt": "2023-12-07T14:22:17.901Z"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "comments": 12,
+      "likes": 8,
+      "author": "Alice Brown",
+      "createdAt": "2023-12-08T18:40:02.123Z"
+    },
+    {
+      "id": "5",
+      "title": "Post 5",
+      "comments": 6,
+      "likes": 18,
+      "author": "Chris White",
+      "createdAt": "2023-12-09T22:05:30.456Z"
+    },
+    {
+      "id": "7",
+      "title": "Post 7",
+      "comments": 9,
+      "likes": 13,
+      "author": "David Black",
+      "createdAt": "2023-12-11T07:55:45.234Z"
+    },
+    {
+      "id": "8",
+      "title": "Post 8",
+      "comments": 7,
+      "likes": 22,
+      "author": "Sophie Gray",
+      "createdAt": "2023-12-12T12:18:37.890Z"
+    },
+    {
+      "id": "40b9",
+      "author": "Priyanshu",
+      "comments": "19",
+      "likes": "100",
+      "title": "Final Test"
+    },
+    {
+      "id": "479a",
+      "author": "pri",
+      "comments": "33",
+      "likes": "34",
+      "title": "sfse"
+    },
+    {
+      "id": "b95d",
+      "author": "fvkifjf",
+      "comments": "23",
+      "likes": "38",
+      "title": "skafjof"
+    },
+    {
+      "id": "6d3f",
+      "author": "weoje",
+      "comments": "304",
+      "likes": "3209",
+      "title": "skjn"
+    },
+    {
+      "id": "a7a7",
+      "author": "skfkm",
+      "comments": "32",
+      "likes": "29",
+      "title": "sfn"
+    },
+    {
+      "id": "2957",
+      "author": "test pag",
+      "comments": "3",
+      "likes": "45",
+      "title": "test"
+    }
+  ]
+}

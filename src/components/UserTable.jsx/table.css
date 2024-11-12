@@ -1,0 +1,60 @@
+thead{
+    height: 49px;
+    width: 100%;
+}
+
+tbody{
+    height: fit-content;
+    width: 100%;
+}
+
+
+tr{
+    height: 49px;
+    width: 100%;
+    text-align: center;
+
+}
+
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+  
+
+  td{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 14px;
+  }
+
+  td{
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 14px;
+  }
+
+  .action-section{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 15px
+    
+  }
+
+  .edit-section{
+    height: 24px;
+    width: 24px;
+  }
+
+  input{
+    outline: none;
+  }
+
+  .tableContainer{
+    height: calc(100% - 104px);
+    overflow-y: scroll;
+  }
